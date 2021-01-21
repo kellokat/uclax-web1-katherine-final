@@ -13,7 +13,7 @@ import ReactDOM from 'react-dom';
 /*---------------------------
 | Components
 ---------------------------*/
-import SunAndMoon from './React/SunAndMoon.jsx';
+import SunAndMoon from './React/Container.jsx';
 
 /*---------------------------
 | Render to DOM
