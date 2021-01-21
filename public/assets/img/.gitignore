@@ -2,3 +2,7 @@
 *
 # Except this file
 !.gitignore
+
+!moon.png
+
+!sun.png
